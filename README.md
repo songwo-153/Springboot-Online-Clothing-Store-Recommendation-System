@@ -42,7 +42,7 @@ JDK版本：JDK1.8
 **管理员登录：**
 ![输入图片说明](12admin%E7%99%BB%E5%BD%95.png)
 
-源码获取：[输入链接说明](https://gitee.com/ss-i-gg/Springboot-Online-Clothing-Store-Recommendation-System/blob/master/springboot%E7%BD%91%E4%B8%8A%E6%9C%8D%E8%A3%85%E5%95%86%E5%9F%8E%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81.zip)
+源码获取：[springboot网上服装商城推荐系统源码](https://gitee.com/ss-i-gg/Springboot-Online-Clothing-Store-Recommendation-System/blob/master/springboot%E7%BD%91%E4%B8%8A%E6%9C%8D%E8%A3%85%E5%95%86%E5%9F%8E%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81.zip)
 
 
 
