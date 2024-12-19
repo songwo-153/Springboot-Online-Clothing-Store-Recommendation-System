@@ -1,7 +1,7 @@
 # 基于springboot网上服装商城推荐系统
 
 #### 介绍
-基于springboot网上服装商城推荐系统源码，后端框架使用Springboot+mybatis，前端框架使用Vue+hrml，数据库使用mysql。
+基于springboot网上服装商城推荐系统源码，后端框架使用Springboot+mybatis，前端框架使用Vue+html，数据库使用mysql。
 
 ## 基于springboot的网上服装商城推荐系统的设计与实现
  **开发语言：Java** 
@@ -42,8 +42,7 @@ JDK版本：JDK1.8
 ![13用户管理登录](https://github.com/user-attachments/assets/01b2eee5-9629-4733-b331-4b7be80d0c14)
 **管理员登录：**
 ![12admin登录](https://github.com/user-attachments/assets/226c71f8-4136-46cf-a57a-5c5520a1bb40)
-**源码获取**：[springboot网上服装商城推荐系统源码](https://gitee.com/ss-i-gg/Springboot-Online-Clothing-Store-Recommendation-System/blob/master/springboot%E7%BD%91%E4%B8%8A%E6%9C%8D%E8%A3%85%E5%95%86%E5%9F%8E%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81.zip)
-
+**源码获取**：[基于springboot的网上服装推荐商城.zip](https://github.com/user-attachments/files/18202344/springboot.zip)
 
 
 
